@@ -5,7 +5,7 @@
 ./cache/
 /cache/
 .cache/
-
+.vscode
 
 # Logs
 logs
